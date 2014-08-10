@@ -39,5 +39,5 @@
 	<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
 	<gap:plugin name="com.phonegap.plugin.statusbar" />
 	
-	<preference name="StatusBarOverlaysWebView" value="true" />
+	<preference name="StatusBarOverlaysWebView" value="false" />
 </widget>
